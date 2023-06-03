@@ -68,8 +68,7 @@ header-includes:
 
 # Введение
 1.1
-/home/liveuser/Pictures/Screenshots/Screenshot from 2023-06-03 14-40-15.png
-
+![Название рисунка](/home/liveuser/Pictures/Screenshots/Screenshot from 2023-06-03 14-40-15.png){#fig:001 width=70%}
 Здесь приводится формулировка цели лабораторной работы. Формулировки
 цели для каждой лабораторной работы приведены в методических
 указаниях.
